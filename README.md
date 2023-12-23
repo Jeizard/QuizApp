@@ -12,21 +12,23 @@
 
 ## Скриншоты
 <div class="screenshot-row">
-    <img src="screenshots/screenshot_1.jpg" alt="Screenshot 1">
-    <img src="screenshots/screenshot_2.jpg" alt="Screenshot 2">
-    <img src="screenshots/screenshot_3.jpg" alt="Screenshot 3">
-    <img src="screenshots/screenshot_4.jpg" alt="Screenshot 4">
+  <img src="screenshots/screenshot_1.jpg" alt="Screenshot 1">
+  <img src="screenshots/screenshot_2.jpg" alt="Screenshot 2">
+  <img src="screenshots/screenshot_3.jpg" alt="Screenshot 3">
+  <img src="screenshots/screenshot_4.jpg" alt="Screenshot 4">
 </div>
+
 
 <style>
     .screenshot-row {
         display: flex;
-        justify-content: space-around;
-        max-width: 100%;
+        justify-content: space-between;
     }
+
     .screenshot-row img {
-        max-width: 150px;
+        width: 23%;
         height: auto;
+        max-width: 100%;
     }
 </style>
 
