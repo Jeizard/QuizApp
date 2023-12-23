@@ -11,26 +11,8 @@
 "Викторина от Копатыча" - мобильная игра-викторина, основанная на мультсериале Смешарики, где игрокам предстоит отгадывать название серии по 4 картинкам.
 
 ## Скриншоты
-<div class="screenshot-row">
-  <img src="screenshots/screenshot_1.jpg" alt="Screenshot 1">
-  <img src="screenshots/screenshot_2.jpg" alt="Screenshot 2">
-  <img src="screenshots/screenshot_3.jpg" alt="Screenshot 3">
-  <img src="screenshots/screenshot_4.jpg" alt="Screenshot 4">
-</div>
-
-
-<style>
-    .screenshot-row {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .screenshot-row img {
-        width: 23%;
-        height: auto;
-        max-width: 100%;
-    }
-</style>
+| ![Screenshot 1](/screenshots/screenshot_1.jpg) | ![Screenshot 2](/screenshots/screenshot_2.jpg) | ![Screenshot 3](/screenshots/screenshot_3.jpg) | ![Screenshot 4](/screenshots/screenshot_4.jpg) |
+|-----|-----|-----|-----|
 
 
 ## Описание
